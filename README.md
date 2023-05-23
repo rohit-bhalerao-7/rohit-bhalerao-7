@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Development & DeFi
 - 🌱 I’m currently learning Solidity & Frontend
 - 💞️ I’m looking to collaborate on Blockchain projects
-- 📫 How to reach me email:rohit.bhalerao.crypto@gmail.com
+- 📫 Reach me at my email:rohit.bhalerao.crypto@gmail.com
 
 <!---
 rohit-bhalerao-7/rohit-bhalerao-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
