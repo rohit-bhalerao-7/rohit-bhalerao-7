@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit Bhalerao
+- 👋 Hi, I’m Rohit Bhalerao, 3rd year Undergrad at IIT KGP
 - 👀 I’m a Blockchain Developer, with a great interest in Decentralized Finance
 - 🌱 I’m currently learning Solidity and reading various DeFi protocols
 - 💞️ I’m looking to collaborate on Blockchain projects
