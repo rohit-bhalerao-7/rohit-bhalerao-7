@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rohit-bhalerao-7
-- 👀 I’m interested in Blockchain Development & DeFi
-- 🌱 I’m currently learning Solidity & Frontend
+- 👋 Hi, I’m Rohit Bhalerao
+- 👀 I’m a Blockchain Developer, with a great interest in Decentralized Finance
+- 🌱 I’m currently learning Solidity and reading various DeFi protocols
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 Reach me at my email:rohit.bhalerao.crypto@gmail.com
 
